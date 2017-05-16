@@ -5,7 +5,7 @@
 public class ReverseLinkedList {
 
     public ListNode reverseList(ListNode head) {
-        if(head.next==null||head==null) return head;
+        if(head==null||head.next==null) return head;
         ListNode nextNode=head.next;
         ListNode newHead=reverseList(nextNode);
         nextNode.next=head;
