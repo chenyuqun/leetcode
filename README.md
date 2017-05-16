@@ -16,3 +16,8 @@ char和int怎么互相转化?
 
 ### 2017-05-15
 java中的排列组合问题
+
+### 2017-05-16
+[JDK8新增便利的Map默认值方法](http://www.importnew.com/11365.html)
+getOrDefault(Object,V),putIfAbsent(K,V),
+remove(Object,Object),replace(K,V)和replace(K,V,V）
