@@ -7,5 +7,6 @@
 /.checkstyle
 /.idea
 /data
+/out
 *.iml
 

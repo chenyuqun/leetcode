@@ -3,7 +3,7 @@ package org.alex.example;
  * 测试排列组合相关算法
  */
 import java.util.Arrays;
-public class MathTest {
+public class ArrangeCombination {
 
     public static void main(String[] args) {
         arrangementSelect(new String[] {
