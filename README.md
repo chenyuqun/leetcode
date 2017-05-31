@@ -25,3 +25,6 @@ remove(Object,Object),replace(K,V)和replace(K,V,V）
 
 ### 2017-05-22
 判断链表中的环路问题 [链表相关问题](http://wuchong.me/blog/2014/03/25/interview-link-questions/)
+
+### 2017-05-31
+Integer和int的区别?Integer a = 1000;Integer b = 1000; return a==b;//false

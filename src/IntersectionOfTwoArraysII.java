@@ -64,8 +64,8 @@ public class IntersectionOfTwoArraysII {
         int[] nums1={-2147483648,1,2,3};
         int[] nums2={1,-2147483648,-2147483648};
         Arrays.asList(intersect(nums1,nums2)).stream().forEach(System.out::println);
-        int i=-2147483648;
-        int j=-2147483648;
+        Integer i=150;
+        Integer j=150;
         System.out.println(i==j);
     }
 }
