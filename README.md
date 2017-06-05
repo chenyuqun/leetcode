@@ -28,3 +28,7 @@ remove(Object,Object),replace(K,V)和replace(K,V,V）
 
 ### 2017-05-31
 Integer和int的区别?Integer a = 1000;Integer b = 1000; return a==b;//false
+
+### 2017-06-05
+二叉树有几种遍历方式 前序、中序、后序以及层序遍历。注意使用非递归方式时，前中后序使用的是Stack,而层序使用的Queue。
+[程序基本功之遍历二叉树](http://www.gocalf.com/blog/traversing-binary-tree.html)
