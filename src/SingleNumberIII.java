@@ -9,7 +9,7 @@ import java.util.Arrays;
  * The order of the result is not important. So in the above example, [5, 3] is also correct.
  * Your algorithm should run in linear runtime complexity. Could you implement it using only constant space complexity?
  */
-public class SingelNumberIII {
+public class SingleNumberIII {
     public static int[] singleNumber(int[] nums) {
         int temp=0;
         for (int n:nums) {
